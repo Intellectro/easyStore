@@ -96,7 +96,14 @@
         return Object.keys(global[inbuiltMethod]);
     }
 
-
-    Object.assign(global.easyStore, {set, get, clear, remove, has, ttlLeft, keys});
+    global.easyStore = {
+        set,
+        get,
+        clear,
+        remove,
+        has,
+        ttlLeft,
+        keys
+    }
 
 })(typeof window !== "undefined" ? window : this);
