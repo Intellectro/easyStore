@@ -19,7 +19,7 @@
 
 ## Installation
 
-You can use it via CDN (replace `yourusername` with your actual GitHub username):
+You can use it via CDN
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Intellectro/easyStore/easyStore.min.js"></script>
