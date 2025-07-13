@@ -22,4 +22,4 @@
 You can use it via CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Intellectro/easyStore/easyStore.min.js"></script>
+<script src="https://cdn.statically.io/gh/Intellectro/easyStore/main/easyStore.min.js"></script>
